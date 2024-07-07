@@ -1,0 +1,18 @@
+{
+  "name": "data-heroes",
+  "version": "1.0.0",
+  "description": "test task for data heroes",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "pg": "^8.12.0",
+    "pg-format": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "nkomit",
+  "license": "ISC"
+}
